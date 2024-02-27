@@ -7,4 +7,10 @@ We want to use Large language model to analyze financial news and predict the fu
    Find some news
    Get some data
 2. Mingxuan work
+   (a) Create a new branch named "Mingxuan-Liu"
+   (b) Uploaded the cropped .tif image to be analyzed.
+   (c) Added the analysis scripts to simulate the sedimenting particle and reconstruct its trajectory.
+   (d) Pushed my commits to the remote repository.
+   (e) Merged my branch with the main branch and push the commits.
+   (f) Code/text review.
    
